@@ -9,7 +9,7 @@ basic visdom function summary
 
 ### Overview
 
-Visdom은 데이터의 시각화를 위한 도구. 해당 코드들은 `Ubuntu 10.04` & `python 3.8` 환경에서 실행.
+Visdom은 데이터의 시각화를 위한 도구. 해당 코드들은 `Ubuntu 18.04` & `python 3.6` 환경에서 실행.
 
 ### visdom setup
 
